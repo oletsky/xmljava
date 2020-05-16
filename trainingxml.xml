@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://my.org trainingxsd.xsd"
+      xmlns="http://my.org"
+>
+
+    <elem>
+        <p1> v11 </p1>
+        <p2> v12 </p2>
+    </elem>
+</root>
